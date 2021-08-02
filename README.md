@@ -19,3 +19,5 @@ This is way too fast!!
 6. Commit! The button is at the bottom of screen
 
 7. Make a Pull Request. Use the "Pull Request" tab in the horizontal tab list, and then "New Pull Request" button on right of the screen.
+
+Hi Ann!! This was clever :)
